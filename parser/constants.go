@@ -9,4 +9,5 @@ const (
 	PRODUCT
 	PREFIX
 	CALL
+	INDEX
 )
